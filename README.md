@@ -33,7 +33,7 @@ The notebook was developed and tested with Python 3.9–3.11. It requires the fo
 
 ```bash
 python -m venv fairness-audit
-source fairness-audit/bin/activate     # macOS/Linux
+source fairness-audit/bin/activate     # macOS or Linux
 fairness-audit\Scripts\activate        # Windows
 ```
 
@@ -104,7 +104,7 @@ All datasets, frameworks, and toolkits used in this audit are linked in the **Re
 
 ```
 .
-├── Fairness_Audit_Final_Project.ipynb     # main audit notebook
+├── Fairness_Audit_Final_Project.ipynb     # notebook containinng audit 
 └── README.md                              # this file
 ```
 
