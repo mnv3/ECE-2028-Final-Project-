@@ -1,7 +1,7 @@
 # ECE-2028-Final-Project-Fairness-Audit
 # Fairness Audit: UCI Adult Income Classifier
 
-A Jupyter notebook conducting a fairness audit of a binary classifier trained on the UCI Adult income dataset, structured around the **Map**, **Measure**, and **Manage** functions of the NIST AI Risk Management Framework. The audit also examines a parallel governance question: who should be responsible for conducting the audit (internal developers, external independent auditors, or a hybrid of both).
+A Jupyter notebook conducting a fairness audit of a binary classifier trained on the UCI Adult income dataset, structured around the **Map**, **Measure**, and **Manage** functions of the NIST AI Risk Management Framework. The audit also examines a governance question: who should be responsible for conducting the audit (internal developers, external independent auditors, or a hybrid of both)?
 
 ## Contents
 
